@@ -1,0 +1,4 @@
+Sistema a,b,c = altibajas, bajas y cambios
+Hashtable: usa el valor y numeros primos para crear una cable unica
+Hashset: conjunto de llaves/hash
+Enum: indexar objetos/enumerarlos

@@ -1,0 +1,20 @@
+Compress image file
+    Correct
+Decompress image file
+    Correct
+Does it have unnecessary code? (150 pts)
+    Correct
+Does it properly uses OOP? (250 pts)
+    Correct
+Is the code reusable? (400 pts)
+    Correct
+Is the code flexible? (300 pts)
+    Minor
+Does it have bugs? (300 pts)
+    Minor
+Is the code scalable? (300 pts)
+    Correct
+Does it have documentation? (300 pts)
+    Correct
+Is  the code a huge mess or neat? (400 pts)
+    Correct

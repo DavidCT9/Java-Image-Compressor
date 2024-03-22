@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/david/Documents/DAVID/UP/4_Semestre/ComputerGraphics/CompressorProject</OriginalElement>
+  <nodes>
+    <node x="-258.5662650602409" y="465.302925989673">ImageCompressor.tools.IOConsole</node>
+    <node x="-401.56626506024094" y="80.67641996557654">ImageCompressor.algorithm.CompressionHandler</node>
+    <node x="-492.32874354561096" y="-79.87607573149745">ImageCompressor.Main</node>
+    <node x="-126.61703958691908" y="80.67641996557654">ImageCompressor.tools.IOHandler</node>
+    <node x="-669.5154905335628" y="513.302925989673">ImageCompressor.tools.OutputImage</node>
+    <node x="-669.5154905335628" y="80.67641996557654">ImageCompressor.algorithm.DecompressionHandler</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ImageCompressor.tools.IOConsole" target="ImageCompressor.tools.IOHandler" relationship="GENERALIZATION">
+      <point x="0.0" y="-105.0" />
+      <point x="-141.56626506024088" y="447.5" />
+      <point x="-9.617039586919077" y="447.5" />
+      <point x="0.0" y="80.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.6359457092819615" showDependencies="false" x="-249.2013769363167" y="327.96110154905335" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

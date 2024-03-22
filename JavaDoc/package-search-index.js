@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ImageCompressor"},{"l":"ImageCompressor.algorithm"},{"l":"ImageCompressor.tools"}];updateSearchResults();
